@@ -1,0 +1,213 @@
+[
+  {
+    "number": 1,
+    "title": "Antzinako Erregimenaren krisia eta Estatu liberalaren eraikuntza (1808-1876)",
+    "epigraphs": [
+      {
+        "code": "1.1",
+        "title": "Independentzia Gerra eta Jose I.aren gobernua: frantsestuak."
+      },
+      {
+        "code": "1.2",
+        "title": "Cadizeko Gorteen lan iraultzailea eta 1812ko Konstituzioa."
+      },
+      {
+        "code": "1.3",
+        "title": "Seiurteko demokratikoa."
+      },
+      {
+        "code": "1.4",
+        "title": "Foru-auzia."
+      }
+    ],
+    "status": "osatua"
+  },
+  {
+    "number": 2,
+    "title": "Berrezarkuntzaren sistema (1875-1930)",
+    "epigraphs": [
+      {
+        "code": "2.1",
+        "title": "Sistema politikoaren oinarriak, indarrak eta oposizioa."
+      },
+      {
+        "code": "2.2",
+        "title": "Ekonomia eta gizartea Espainian. Auzi soziala."
+      },
+      {
+        "code": "2.3",
+        "title": "Berrezarkuntza sistemaren azken krisia."
+      },
+      {
+        "code": "2.4",
+        "title": "Primo de Riveraren Estatu kolpea eta haren diktadura."
+      }
+    ],
+    "status": "planifikatzeke"
+  },
+  {
+    "number": 3,
+    "title": "Euskal Herriko industrializazioa eta gizarte pluralaren sorrera (1875-1930)",
+    "epigraphs": [
+      {
+        "code": "3.1",
+        "title": "Industrializazioa Euskal Herrian: eszenatoki bereiziak."
+      },
+      {
+        "code": "3.2",
+        "title": "Euskal aniztasun politikoa Errestaurazioan: politika eta lurralde triangelua."
+      },
+      {
+        "code": "3.3",
+        "title": "Langile-mugimendua eta gizarte-gatazkak."
+      },
+      {
+        "code": "3.4",
+        "title": "Lehen nazionalismo politiko eta sindikala."
+      }
+    ],
+    "status": "planifikatzeke"
+  },
+  {
+    "number": 4,
+    "title": "II. Errepublika (1931-1936)",
+    "epigraphs": [
+      {
+        "code": "4.1",
+        "title": "Monarkiaren behin betiko krisia."
+      },
+      {
+        "code": "4.2",
+        "title": "Biurteko errepublikar-sozialista eta haren erreformak."
+      },
+      {
+        "code": "4.3",
+        "title": "Biurteko erradikal-cedista edo kontrarreformatzailea."
+      },
+      {
+        "code": "4.4",
+        "title": "Fronte Popularraren etapa."
+      }
+    ],
+    "status": "planifikatzeke"
+  },
+  {
+    "number": 5,
+    "title": "Gerra Zibila (1936-1939)",
+    "epigraphs": [
+      {
+        "code": "5.1",
+        "title": "Altxamendu militarra eta gobernuaren erantzuna."
+      },
+      {
+        "code": "5.2",
+        "title": "Nazioarteko testuingurua."
+      },
+      {
+        "code": "5.3",
+        "title": "Gerraren bilakaera."
+      },
+      {
+        "code": "5.4",
+        "title": "Erretagoardiako indarkeria."
+      }
+    ],
+    "status": "planifikatzeke"
+  },
+  {
+    "number": 6,
+    "title": "Diktadura frankista I (1939-1959). Gerraostea eta autarkia",
+    "epigraphs": [
+      {
+        "code": "6.1",
+        "title": "Francoren erregimenaren oinarri instituzional eta ideologikoak."
+      },
+      {
+        "code": "6.2",
+        "title": "Gerraosteko gizartea (garaileak eta garaituak) eta gerraosteko errepresio politikoa."
+      },
+      {
+        "code": "6.3",
+        "title": "Autarkia ekonomikoa. Gosearen eta eskasiaren hedapena."
+      },
+      {
+        "code": "6.4",
+        "title": "Nazioarteko politika: isolamendutik integraziora."
+      }
+    ],
+    "status": "planifikatzeke"
+  },
+  {
+    "number": 7,
+    "title": "Diktadura frankista II (1959-1975). Desarrollismo industriala eta bere ondorioak",
+    "epigraphs": [
+      {
+        "code": "7.1",
+        "title": "Garapen ekonomikoa eta gizarte-eraldaketak."
+      },
+      {
+        "code": "7.2",
+        "title": "Erregimenaren finkapenari emandako erantzuna: babesa, indiferentzia eta oposizioa."
+      },
+      {
+        "code": "7.3",
+        "title": "Frankismo berantiarraren krisia."
+      },
+      {
+        "code": "7.4",
+        "title": "Errepresio politiko eta soziala."
+      }
+    ],
+    "status": "planifikatzeke"
+  },
+  {
+    "number": 8,
+    "title": "Trantsizioa (1975-1982)",
+    "epigraphs": [
+      {
+        "code": "8.1",
+        "title": "Erreforma politikoa eta oposizioa."
+      },
+      {
+        "code": "8.2",
+        "title": "1978ko Konstituzioa eta 1979ko Gernikako Estatutua."
+      },
+      {
+        "code": "8.3",
+        "title": "Berunezko urteak: terrorismoa eta biolentzia politikoa."
+      },
+      {
+        "code": "8.4",
+        "title": "Krisi ekonomikoa eta gizarte-gatazkak. Langile-mugimendua eta mugimendu sozialak."
+      },
+      {
+        "code": "8.5",
+        "title": "1981eko estatu-kolpe saiakera."
+      }
+    ],
+    "status": "planifikatzeke"
+  },
+  {
+    "number": 9,
+    "title": "Monarkia parlamentarioa sendotzea (1982-1996)",
+    "epigraphs": [
+      {
+        "code": "9.1",
+        "title": "Industria-birmoldaketa Euskal Autonomia Erkidegoan."
+      },
+      {
+        "code": "9.2",
+        "title": "Biolentzia terroristaren jarraipena."
+      },
+      {
+        "code": "9.3",
+        "title": "Indar polizialak, erakundeak eta gizartea terrorismoaren aurrean."
+      },
+      {
+        "code": "9.4",
+        "title": "Espainia Europa eraikitzeko prozesuan."
+      }
+    ],
+    "status": "planifikatzeke"
+  }
+]
